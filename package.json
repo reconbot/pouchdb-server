@@ -58,7 +58,6 @@
     "pouchdb-vhost": "^1.0.2",
     "pouchdb-wrappers": "^1.3.6",
     "raw-body": "^2.2.0",
-    "sanitize-filename": "^1.6.1",
     "serve-favicon": "~2.3.2",
     "tail": "^1.2.1",
     "uuid": "^3.0.1",
