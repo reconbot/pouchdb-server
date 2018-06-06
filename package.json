@@ -40,7 +40,7 @@
     "pouchdb-adapter-leveldb-core": "^6.1.0",
     "pouchdb-adapter-memory": "^6.1.0",
     "pouchdb-all-dbs": "^1.0.2",
-    "pouchdb-auth": "^2.1.1",
+    "pouchdb-auth": "^4.0.1",
     "pouchdb-bulkdocs-wrapper": "^1.0.2",
     "pouchdb-changeslike-wrapper": "^1.0.1",
     "pouchdb-collections": "^6.1.2",
